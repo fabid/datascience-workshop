@@ -3,6 +3,10 @@
 
 https://colab.research.google.com/drive/1TB9C0xcoJ2r5F7HSTtTmLda4X2oGtwDU
 
+Part2
+
+https://colab.research.google.com/drive/1B7edGgm_B2hAbNqGwFHMzsUWXZH2NIh9
+
 Go to:
 [Google Colab](https://colab.research.google.com)
 
