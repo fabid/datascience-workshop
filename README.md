@@ -1,14 +1,18 @@
 
 ## Option 1: you have a google account
 
-https://colab.research.google.com/drive/1TB9C0xcoJ2r5F7HSTtTmLda4X2oGtwDU
 
-Part2
-
-https://colab.research.google.com/drive/1B7edGgm_B2hAbNqGwFHMzsUWXZH2NIh9
-
-Go to:
+1. Go to:
 [Google Colab](https://colab.research.google.com)
+
+2. Choose 'github'
+
+3. Paste the notebook url and click the search button, for example:
+
+https://github.com/fabid/datascience-workshop/blob/master/0.part1_meetup_started.ipynb
+
+3. Click on File -> Save a copy in drive to be able to edit
+
 
 ## Option 2: you have a python3 development environment installed
 
